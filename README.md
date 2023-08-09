@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yvan</h1>
 <h3 align="center">Im Softwareengineer</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 - 🔭 I’m currently working on [30-days-of-Springboot-Angular](https://github.com/istyvnoub/gestionStock)
 
 - 🌱 I’m currently learning **Springboot, Angular**
